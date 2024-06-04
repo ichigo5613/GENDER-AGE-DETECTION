@@ -7,4 +7,7 @@ Step 2: Add 2 models to remaining to other folder
 
 Step 3:download & Install Python 
 
-Step 4: run "gad.py" file
+Step 4: run "python gad.py" file in command prompt by going to file directory
+In this it will detect image with open camera & detect age & Gender
+
+Step 5: run "python gad.py --image girl1.jpg" which will help to select particular Image & run it , it will display output
